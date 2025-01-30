@@ -1,0 +1,21 @@
+movie_id,movie_title,person_ids,audience_rank,critics_rank
+1,The Lord of the Rings: The Fellowship of the Ring,"[1,2]",95,92
+2,The Dark Knight,"[3,4]",98,94
+3,Inception,"[3,5,6]",91,88
+4,Interstellar,"[3,7,8]",89,86
+5,The Matrix,"[9,10,11]",94,87
+6,Parasite,"[12,13,14]",99,96
+7,Avengers: Endgame,"[15,16,17,18]",94,91
+8,The Godfather,"[19,20,21]",97,98
+9,Titanic,"[22,23]",90,89
+10,Pulp Fiction,"[24,25,26]",94,92
+11,Catwoman,"[27,28]",18,9
+12,The Room,"[29,30]",20,23
+13,Battlefield Earth,"[31,32]",10,3
+14,Jack and Jill,"[33,34]",25,5
+15,Movie 43,"[35,36]",7,4
+16,Dragonball Evolution,"[37,38]",15,9
+17,Gigli,"[39,40]",12,6
+18,Superbabies: Baby Geniuses 2,"[41,42]",5,2
+19,The Emoji Movie,"[43,44]",30,9
+20,Slender Man,"[45,46]",18,11

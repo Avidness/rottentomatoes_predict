@@ -5,4 +5,3 @@ Alternatively?
 random forest
 linear regression
 NN
-# rottentomatoes_predict
