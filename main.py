@@ -4,8 +4,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 from ast import literal_eval
 
-movies_df = pd.read_csv("movies.csv")
-persons_df = pd.read_csv("persons.csv")
+movies_df = pd.read_csv("data/movies.csv")
+persons_df = pd.read_csv("data/persons.csv")
 
 movies_df["person_ids"] = movies_df["person_ids"].apply(literal_eval)
 movies_expanded = movies_df.explode("person_ids")
